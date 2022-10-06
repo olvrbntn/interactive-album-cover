@@ -47,7 +47,7 @@ function draw() {
   
 //   title & subtitle
   push();
-  translate(width/2,height-80);
+  translate(width/2,height-90);
   noStroke();
   textFont('Arial');
   textSize(15);
